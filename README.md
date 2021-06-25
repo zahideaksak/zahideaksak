@@ -2,8 +2,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zahideaksak&label=Views&color=blue&style=plastic" alt="zahideaksak" /> </p>
 
-- 🔭 I’m currently working WEB
-- 🌱 I’m currently learning JavaScript
+- 🔭 I’m currently working Android
+- 🌱 I’m currently learning kotlin
 - 💬 Ask me about React
 
 ![zahideaksak's github stats](https://github-readme-stats.vercel.app/api?username=zahideaksak&show_icons=true&line_height=25)
