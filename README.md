@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm Zahide</h1>
+<h1 align="center">Hi 👋,  I'm Zahide</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zahideaksak&label=Views&color=blue&style=plastic" alt="zahideaksak" /> </p>
 
@@ -11,11 +11,11 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
- <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>  
+<img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>
 <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </a> 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </p>  
   
   
 ![zahideaksak's github stats](https://github-readme-stats.vercel.app/api?username=zahideaksak&show_icons=true&line_height=25&theme=dracula&count_private=true&include_all_commits=true)
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zahideaksak&layout=compact&hide=html" alt="zahideaksak" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zahideaksak&layout=compact&hide=htmlshow_icons=true&theme=dracula&count_private=true&include_all_commits=true" alt="zahideaksak" /></p>
