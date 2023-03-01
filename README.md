@@ -17,5 +17,5 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </p>  
   
   
-![zahideaksak's github stats](https://github-readme-stats.vercel.app/api?username=zahideaksak&show_icons=true&line_height=25&theme=dracula&count_private=true&include_all_commits=true)
+![zahideaksak's github stats](https://github-readme-stats.vercel.app/api?username=zahideaksak&show_icons=true&theme=dracula&count_private=true&include_all_commits=true)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zahideaksak&layout=compact&hide=htmlshow_icons=true&theme=dracula&count_private=true&include_all_commits=true" alt="zahideaksak" /></p>
